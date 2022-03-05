@@ -1,7 +1,7 @@
-### Hi there 👋
+
 <p align="center">
   <samp>
-Hi, I'm LUJS. A Web Developer.
+Hi, I'm LUJS 👋. A Web Developer.
   </samp>
   <br/>
   <br/>
